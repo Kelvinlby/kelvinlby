@@ -6,7 +6,12 @@
 - Natural language processing
 
 ### Languages
-
+![C](./assets/c.svg)
+![Kotlin](./assets/kotlin.svg)
+![Java](./assets/java.svg)
+![Python](./assets/python.svg)
 
 ### Software $ Tools
-
+![IDEA](./assets/idea.svg)
+![PyCharm](./assets/pycharm.svg)
+![Android Studio](./assets/studio.svg)
