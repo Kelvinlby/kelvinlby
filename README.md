@@ -11,6 +11,8 @@
 ![Java](./assets/java.svg)
 ![Python](./assets/python.svg)
 
+<img src="./assets/c.svg" width=64 height=64>
+
 ### Software $ Tools
 ![IDEA](./assets/idea.svg)
 ![PyCharm](./assets/pycharm.svg)
