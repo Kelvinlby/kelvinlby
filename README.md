@@ -2,8 +2,9 @@
 
 ### My Interests
 - Machine learning
-- Neural Networks
-- Natural language processing
+- Neural networks
+- Artificial general intelligence
+- Mathmatical priciple of AI
 
 ### My Favourite IDEs
 <div>
